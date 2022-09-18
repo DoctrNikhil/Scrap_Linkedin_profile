@@ -14,16 +14,21 @@ This project gets linkedin url from [urls.txt](urls.txt) file, and scrap their
 ## Installation
 
 ### Prerequisite
-You need to have the following python libraries
-1. Selenium 4.x.x
-2. ipynb
-3. python-dotenv
+You need to have the following python packages
+1. VS Code in Anacoda(For package ipynb)
+2. Selenium 4.x.x
+3. ipynb
+4. python-dotenv
 
-Command to install these 3 libraries
+Command to install these 3 packages
 
 ```
 pip install selenium ipynb python-dotenv
 ```
+
+### Browser
+1. Edge Browser is needed for Windows
+2. Chrome Browser is needed for Linux
 
 ## Setup
 
