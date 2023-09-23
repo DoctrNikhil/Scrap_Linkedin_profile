@@ -19,16 +19,17 @@ You need to have the following python packages
 2. Selenium 4.x.x
 3. ipynb
 4. python-dotenv
+5. webdriver-manager
 
 Command to install these 3 packages
 
 ```
-pip install selenium ipynb python-dotenv
+pip install selenium ipynb python-dotenv webdriver-manager
 ```
 
 ### Browser
 1. Edge Browser is needed for Windows
-2. Chrome Browser is needed for Linux
+2. Chrome Browser is needed for Linux and Mac
 
 ## Setup
 
